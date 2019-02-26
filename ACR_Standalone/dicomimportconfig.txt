@@ -1,0 +1,10 @@
+settings.recursive = false;
+settings.naming = {'SeriesInstanceUID'};
+settings.outputType = 'm4Array';
+settings.selectionString = '';
+settings.splitTags = {'SeriesInstanceUID','EchoTime'};
+settings.orderTags = {'SeriesInstanceUID'};
+settings.timeTag = 'AcquisitionTime';
+settings.dateTag = 'AcquisitionDate';
+settings.dateTimeTag = ''; % Alternative to the time and date tag. Not used = ''.
+settings.timeOffsetTag = 'FrameReferenceTime';

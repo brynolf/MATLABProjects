@@ -1,0 +1,3 @@
+% Configureation settings for the Matrix 4D object. To be edited if desired.
+defaultViewer = 'imlook4d';
+defaultImportFileFormat = 'dicom'; 
